@@ -17,8 +17,8 @@ title: UFMG - DCC192
 tagline: Desenvolvimento de Jogos Digitais
 description: Seja bem-vindo(a) à DCC192 - Desenvolvimento de Jogos Digitais!
 author: Lucas N. Ferreira
-baseurl: '' # the subpath of your site, e.g. /blog
-url: 'https://lucasnfe.github.io/dcc192-2025-1' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: 'dcc192-2025-1' # the subpath of your site, e.g. /blog
+url: 'https://lucasnfe.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
