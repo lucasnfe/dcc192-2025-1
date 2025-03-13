@@ -19,7 +19,7 @@ Essa disciplina é uma introdução às técnicas fundamentais para a programaç
 
 ## Aulas
 
-- Segundas e Quartas, 19:00-20:40pm, ICEX1017
+- Segundas e Quartas, 19:00-20:40h, ICEX1017
 
 ## Professor
 
