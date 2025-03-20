@@ -34,7 +34,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>12/03</td>
     <td>2. Lab 0: SDL<br><a href="{{ 'assets/slides/A02-sdl.pdf' | relative_url }}">[slides]</a></td>
     <td><a href="https://gameprogrammingpatterns.com/double-buffer.html">Game Programming Patterns, Double Buffer</a></td>
-    <td rowspan="2">
+    <td rowspan="4">
     <a href="{{ '/avaliacoes/tp0-config-inicial' | relative_url }}">TP0: Setup</a>
     </td>
   </tr>
@@ -50,7 +50,6 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>19/03</td>
     <td>3. Eng Soft: Game Loop<br><a href="{{ 'assets/slides/A03-game-loop.pdf' | relative_url }}">[slides]</a></td>
     <td><a href="https://gameprogrammingpatterns.com/game-loop.html">Game Programming Patterns, Game Loop</a></td>
-    <td></td>
   </tr>
 
   <!-- Semana 3 -->
@@ -58,7 +57,6 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td rowspan="2">3</td>
     <td>24/03</td>
     <td>4. Eng Soft: Game Objects</td>
-    <td></td>
     <td></td>
   </tr>
   <tr>

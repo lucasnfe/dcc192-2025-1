@@ -7,7 +7,7 @@ nav_exclude: true
 
 # TP0: Configuração Inicial
 
-#### Entrega: 19/03 às 18:59h
+#### Entrega: 24/03 às 18:59h
 
 ## Introdução
 
