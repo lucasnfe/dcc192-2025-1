@@ -48,8 +48,8 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   </tr>
   <tr>
     <td>19/03</td>
-    <td>3. Eng Soft: Game Loop</td>
-    <td></td>
+    <td>3. Eng Soft: Game Loop<br><a href="{{ 'assets/slides/A03-game-loop.pdf' | relative_url }}">[slides]</a></td>
+    <td><a href="https://gameprogrammingpatterns.com/game-loop.html">Game Programming Patterns, Game Loop</a></td>
     <td></td>
   </tr>
 
