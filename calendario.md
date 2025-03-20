@@ -33,7 +33,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td>12/03</td>
     <td>2. Lab 0: SDL<br><a href="{{ 'assets/slides/A02-sdl.pdf' | relative_url }}">[slides]</a></td>
-    <td></td>
+    <td><a href="https://gameprogrammingpatterns.com/double-buffer.html">Game Programming Patterns, Double Buffer</a></td>
     <td rowspan="2">
     <a href="{{ '/avaliacoes/tp0-config-inicial' | relative_url }}">TP0: Setup</a>
     </td>
