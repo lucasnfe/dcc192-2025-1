@@ -33,7 +33,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td>12/03</td>
     <td>2. Lab 0: SDL<br><a href="{{ 'assets/slides/A02-sdl.pdf' | relative_url }}">[slides]</a></td>
-    <td><a href="https://gameprogrammingpatterns.com/double-buffer.html">Game Programming Patterns, Double Buffer</a></td>
+    <td><a href="https://gameprogrammingpatterns.com/double-buffer.html">Game Prog. Patterns, 8. Double Buffer</a></td>
     <td rowspan="4">
     <a href="{{ '/avaliacoes/tp0-config-inicial' | relative_url }}">TP0: Setup</a>
     </td>
@@ -49,15 +49,15 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td>19/03</td>
     <td>3. Eng Soft: Game Loop<br><a href="{{ 'assets/slides/A03-game-loop.pdf' | relative_url }}">[slides]</a></td>
-    <td><a href="https://gameprogrammingpatterns.com/game-loop.html">Game Programming Patterns, Game Loop</a></td>
+    <td><a href="https://gameprogrammingpatterns.com/game-loop.html">Game Prog. Patterns, 9. Game Loop</a></td>
   </tr>
 
   <!-- Semana 3 -->
   <tr>
     <td rowspan="2">3</td>
     <td>24/03</td>
-    <td>4. Eng Soft: Game Objects</td>
-    <td></td>
+    <td>4. Eng Soft: Game Objects<br><a href="{{ 'assets/slides/A04-game-objects.pdf' | relative_url }}">[slides]</a></td>
+    <td><a href="https://gameprogrammingpatterns.com/update-method.html">Game Prog. Patterns, 10. Update Method</a><br><a href="https://gameprogrammingpatterns.com/component.html">Game Prog. Patterns, 14. Component</a></td>
   </tr>
   <tr>
     <td>26/03</td>
