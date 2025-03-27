@@ -60,7 +60,7 @@ Siga as instruções abaixo para baixar o código-base desse trabalho prático:
 
     - **Math**
 
-        Classes e funções implementandos todas as operações matemáticas necessárias para o desenvolvimento dos jogos dessa disciplina.
+        Classes e funções implementando todas as operações matemáticas necessárias para o desenvolvimento dos jogos dessa disciplina.
 
 ## Instruções
 
@@ -148,7 +148,7 @@ Essa etapa conclui as implementações básicas do jogo, que deveria ter um resu
 
 Na quarta, e última etapa, você irá customizar a implementação básica para criar uma versão exclusiva do Pong.
 
-1. Ajuste o tamanho da quadra (janela), a posição horizontal das raquetes bem como suas velocidades e alturas da forma como achar mais interessante;
+1. Ajuste o tamanho da quadra (janela), a posição horizontal das raquetes bem como suas velocidades e alturas da forma que achar mais interessante;
 
 2. Defina um novo esquema de cores que modifique as cores do fundo, da raquete e da bola;
 
