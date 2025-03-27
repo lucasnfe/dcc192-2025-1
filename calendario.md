@@ -61,10 +61,10 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   </tr>
   <tr>
     <td>26/03</td>
-    <td>5. Mat: Vetores<br>(Intro. TP1)</td>
-    <td></td>
+    <td>5. Mat: Vetores<br>(Intro. TP1)<br><a href="{{ 'assets/slides/A05-vetores.pdf' | relative_url }}">[slides]</a></td>
+    <td>The Nature of Code:<br><a href="https://natureofcode.com/vectors/">1. Vectors</a></td>
     <td rowspan="4">
-      TP1: Pong
+      <a href="{{ '/avaliacoes/tp1-pong' | relative_url }}">TP1: Pong</a>
     </td>
   </tr>
 
