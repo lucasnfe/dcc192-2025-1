@@ -15,7 +15,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
 
 <table>
   <tr>
-    <th>Seamana</th>
+    <th>Semana</th>
     <th>Data</th>
     <th>Aulas</th>
     <th>Leituras</th>
@@ -72,8 +72,8 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">4</td>
     <td>31/03</td>
-    <td>6. Física: Forças/Objetos Rígidos</td>
-    <td></td>
+    <td>6. Física: Forças/Objetos Rígidos<br><a href="{{ 'assets/slides/A06-rigid-bodies.pdf' | relative_url }}">[slides]</a></td>
+    <td>The Nature of Code:<br><a href="https://natureofcode.com/vectors/">2. Forces</a></td>
   </tr>
   <tr>
     <td>02/04</td>
