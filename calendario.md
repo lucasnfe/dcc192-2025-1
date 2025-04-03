@@ -77,8 +77,8 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   </tr>
   <tr>
     <td>02/04</td>
-    <td>7. Física: Detecção de Colisão</td>
-    <td></td>
+    <td>7. Física: Detecção de Colisão<br><a href="{{ 'assets/slides/A07-colisaoI.pdf' | relative_url }}">[slides]</a></td>
+    <td><a href="https://www.jeffreythompson.org/collision-detection/index.php">Jeff Thompson's Collision Detection Tutorial</a></td>
   </tr>
 
   <!-- Semana 5 -->
