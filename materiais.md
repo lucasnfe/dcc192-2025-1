@@ -10,10 +10,12 @@ description: Lista de materiais utilizados na disciplina.
 
 Embora esta disciplina não siga explicitamente um livro-texto específico, as referências abaixo contém para muitos dos tópicos abordados.
 
-- [Game Programming Patterns, Robert Nystron](https://gameprogrammingpatterns.com/)
-- [Beginning Game Programming v2.0, Lazy Foo' Productions](https://lazyfoo.net/tutorials/SDL/index.php)
+- [Game Programming Algorithms and Techniques: A Platform-agnostic Approach](https://www.oreilly.com/library/view/game-programming-algorithms/9780133463200/)
 - [Game Programming in C++: Creating 3D Games, Sanjay Madhav](https://www.oreilly.com/library/view/game-programming-in/9780134598185/)
+- [Beginning Game Programming v2.0, Lazy Foo' Productions](https://lazyfoo.net/tutorials/SDL/index.php)
+- [Game Programming Patterns, Robert Nystron](https://gameprogrammingpatterns.com/)
 - [The Nature of Code, Daniel Shiffman](https://natureofcode.com/)
+
 
 ## Disciplinas Relacionadas
 

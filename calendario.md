@@ -77,7 +77,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   </tr>
   <tr>
     <td>02/04</td>
-    <td>7. Física: Detecção de Colisão<br><a href="{{ 'assets/slides/A07-colisaoI.pdf' | relative_url }}">[slides]</a></td>
+    <td>7. Física: Detecção de Colisão I<br><a href="{{ 'assets/slides/A07-colisaoI.pdf' | relative_url }}">[slides]</a></td>
     <td><a href="https://www.jeffreythompson.org/collision-detection/index.php">Jeff Thompson's Collision Detection Tutorial</a></td>
   </tr>
 
@@ -85,12 +85,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">5</td>
     <td>07/04</td>
-    <td>8. Gráficos 2D: Bitmaps, Sprites e Tilemap</td>
-    <td></td>
+    <td>8. Física: Detecção de Colisão II<br><a href="{{ 'assets/slides/A08-colisaoII.pdf' | relative_url }}">[slides]</a></td>
+    <td>Game Prog. Patterns:<br><a href="https://gameprogrammingpatterns.com/spatial-partition.html">20. Spatial Partition</a></td>
   </tr>
   <tr>
     <td>09/04</td>
-    <td>9. Lab 2: Asteroids</td>
+    <td>9. Gráficos 2D: Sprites e Tilemaps<br>(Intro. TP2)</td>
     <td></td>
     <td rowspan="4">
       TP2: Asteroids
