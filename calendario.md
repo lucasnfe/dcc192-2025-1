@@ -48,7 +48,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   </tr>
   <tr>
     <td>19/03</td>
-    <td>3. Eng Soft: Game Loop<br><a href="{{ 'assets/slides/A03-game-loop.pdf' | relative_url }}">[slides]</a></td>
+    <td>3. Game Loop<br><a href="{{ 'assets/slides/A03-game-loop.pdf' | relative_url }}">[slides]</a></td>
     <td>Game Prog. Patterns:<br><a href="https://gameprogrammingpatterns.com/game-loop.html">9. Game Loop</a></td>
   </tr>
 
@@ -56,12 +56,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">3</td>
     <td>24/03</td>
-    <td>4. Eng Soft: Game Objects<br><a href="{{ 'assets/slides/A04-game-objects.pdf' | relative_url }}">[slides]</a></td>
+    <td>4. Game Objects<br><a href="{{ 'assets/slides/A04-game-objects.pdf' | relative_url }}">[slides]</a></td>
     <td>Game Prog. Patterns:<br><a href="https://gameprogrammingpatterns.com/update-method.html">10. Update Method</a><br><a href="https://gameprogrammingpatterns.com/component.html">14. Component</a></td>
   </tr>
   <tr>
     <td>26/03</td>
-    <td>5. Mat: Vetores<br>(Intro. TP1)<br><a href="{{ 'assets/slides/A05-vetores.pdf' | relative_url }}">[slides]</a></td>
+    <td>5. Vetores (Intro. TP1)<br><a href="{{ 'assets/slides/A05-vetores.pdf' | relative_url }}">[slides]</a></td>
     <td>The Nature of Code:<br><a href="https://natureofcode.com/vectors/">1. Vectors</a></td>
     <td rowspan="4">
       <a href="{{ '/avaliacoes/tp1-pong' | relative_url }}">TP1: Pong</a>
@@ -72,12 +72,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">4</td>
     <td>31/03</td>
-    <td>6. Física: Forças/Objetos Rígidos<br><a href="{{ 'assets/slides/A06-rigid-bodies.pdf' | relative_url }}">[slides]</a></td>
+    <td>6. Objetos Rígidos<br><a href="{{ 'assets/slides/A06-rigid-bodies.pdf' | relative_url }}">[slides]</a></td>
     <td>The Nature of Code:<br><a href="https://natureofcode.com/forces/">2. Forces</a></td>
   </tr>
   <tr>
     <td>02/04</td>
-    <td>7. Física: Detecção de Colisão I<br><a href="{{ 'assets/slides/A07-colisaoI.pdf' | relative_url }}">[slides]</a></td>
+    <td>7. Detect. de Colisão I<br><a href="{{ 'assets/slides/A07-colisaoI.pdf' | relative_url }}">[slides]</a></td>
     <td><a href="https://www.jeffreythompson.org/collision-detection/index.php">Jeff Thompson's Collision Detection Tutorial</a></td>
   </tr>
 
@@ -85,13 +85,14 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">5</td>
     <td>07/04</td>
-    <td>8. Física: Detecção de Colisão II<br><a href="{{ 'assets/slides/A08-colisaoII.pdf' | relative_url }}">[slides]</a></td>
+    <td>8. Detect. de Colisão II<br><a href="{{ 'assets/slides/A08-colisaoII.pdf' | relative_url }}">[slides]</a></td>
     <td>Game Prog. Patterns:<br><a href="https://gameprogrammingpatterns.com/spatial-partition.html">20. Spatial Partition</a></td>
   </tr>
   <tr>
     <td>09/04</td>
-    <td>9. Gráficos 2D: Sprites e Tilemaps<br>(Intro. TP2)</td>
-    <td></td>
+    <td>9. Sistemas de Partículas (Intro. TP2)<br><a href="{{ 'assets/slides/A09-particulas.pdf' | relative_url }}">[slides]</a></td>
+    <td>The Nature of Code:<br><a href="https://natureofcode.com/particles/">4. Particle Systems</a><br>
+    Game Prog. Patterns:<a href="https://gameprogrammingpatterns.com/object-pool.html">19. Object Pool</a></td>
     <td rowspan="4">
       TP2: Asteroids
     </td>
@@ -101,12 +102,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">6</td>
     <td>14/04</td>
-    <td>10. Gráficos 2D: Sistema de Partículas</td>
+    <td>10. Sprites, Animações e Tilemaps</td>
     <td></td>
   </tr>
   <tr>
     <td>16/04</td>
-    <td>11. Gráficos 2D: Câmeras e Animação</td>
+    <td>11. Câmeras 2D e HUD</td>
     <td></td>
   </tr>
 
@@ -119,7 +120,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   </tr>
   <tr>
     <td>23/04</td>
-    <td>12. Game Design: Fundamentos</td>
+    <td>12. Fundamentos de Game Design</td>
     <td></td>
     <td rowspan="2">
       PF1: Game Design Document
@@ -130,7 +131,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">8</td>
     <td>28/04</td>
-    <td>13. Física: Resolução de Colisão</td>
+    <td>13. Interface com o usuário</td>
     <td></td>
   </tr>
   <tr>
