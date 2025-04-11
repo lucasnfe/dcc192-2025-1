@@ -94,7 +94,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>The Nature of Code:<br><a href="https://natureofcode.com/particles/">4. Particle Systems</a><br>
     Game Prog. Patterns:<a href="https://gameprogrammingpatterns.com/object-pool.html">19. Object Pool</a></td>
     <td rowspan="4">
-      TP2: Asteroids
+      <a href="{{ '/avaliacoes/tp2-asteroids' | relative_url }}">TP2: Asteroids</a>
     </td>
   </tr>
 

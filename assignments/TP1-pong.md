@@ -13,6 +13,13 @@ nav_exclude: true
 
 Um dos primeiros e mais populares jogos da era do fliperama é o Pong, desenvolvido pela Atari em 1972. O pong simula um jogo de tênis de mesa, onde cada jogador controla verticalmente uma raquete posicionada em uma das extremidades da tela, com o objetivo de rebater uma bola de tal maneira que o oponente não consiga rebater de volta. Cada vez que um jogador não conseguir rebater a bola, o oponente receberá um ponto. O jogo termina quando um dos jogadores completar 11 pontos. Tanto as raquetes e a bola quanto as marcações de meio de campo e de pontuação são representados por retângulos brancos. O video a seguir mostra um *gameplay* do jogo original:
 
+<div class="embed-youtube">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/e4VRgY3tkh0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="">
+    </iframe>
+</div>
+
+## Objetivo
+
 Nesse projeto, você irá desenvolver uma versão de 1 jogador do jogo Pong em C++ e SDL. Nessa versão, o jogador controla a raquete com o objetivo de rebater a bola contra a parede o maior número de vezes possível. Primeiro, você irá criar o laço principal do jogo (*game loop*) com uma taxa de quadros (*framerate*) dinâmica, que processa entradas do teclado, atualiza os objetos do jogo e renderiza os quadros. A modelagem de objetos terá uma arquitetura híbrida, com hierarquia de classes e componentes. Em seguida, você irá utilizar essa estrutura para definir os objetos de jogo do pong. O video a seguir mostra um gameplay da versão que você irá implementar:
 
 <div class="embed-youtube">
@@ -74,8 +81,7 @@ Na primeira parte, você irá implementar o laço principal do jogo utilizando u
     2. Implemente o método `RunLoop` para executar o laço principal do jogo
     3. Implemente o método `UpdateGame` para controlar a taxa de atualização de quadros
 
-Ao final dessa etapa, você deverá ver uma janela com fundo preto que pode ser fechada com o ícone na barra superior. Além disso,
-se você imprimir (`SDL_Log`) o valor da variável `deltaTime` dentro da função `UpdateGame`, você deverá ver valores próximos a `0.016`, como ilustram as imagens a seguir:
+Ao final dessa etapa, você deverá ver uma janela com fundo preto que pode ser fechada com o ícone na barra superior. Além disso, se você imprimir (`SDL_Log`) o valor da variável `deltaTime` dentro da função `UpdateGame`, você deverá ver valores próximos a `0.016`, como ilustram as imagens a seguir:
 
 <img src="{{ 'assets/images/tp1/1-result.png' | relative_url }}" alt="tp1-pong-1" width="560"/>
 <img src="{{ 'assets/images/tp1/2-result.png' | relative_url }}" alt="tp1-pong-1" width="560"/>
@@ -108,8 +114,7 @@ Na segunda parte, você irá implementar uma estrutura de objetos com hierarquia
     7. Complete o método `GenerateOutput` para desenhar os componentes visuais
     8. Complete o método `Shutdown` para deletar os actors do jogo
 
-Ao final dessa segunda etapa, você deverá poder criar actors na função e adicioná-los ao jogo na função `Game::Initialize()`. 
-Por exemplo, experimente criar um retângulo branco de tamanho 100x200 no meio da tela com o código abaixo:
+Ao final dessa segunda etapa, você deverá poder criar actors e adicioná-los ao jogo na função `Game::Initialize()`. Por exemplo, experimente criar um retângulo branco de tamanho 100x200 no meio da tela com o código abaixo:
 
 ```
 Actor *a = new Actor(this);
