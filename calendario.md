@@ -102,8 +102,8 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">6</td>
     <td>14/04</td>
-    <td>10. Sprites, Animações e Tilemaps</td>
-    <td></td>
+    <td>10. Gráficos 2D<br><a href="{{ 'assets/slides/A10-graficos2d.pdf' | relative_url }}">[slides]</a></td>
+    <td>Game Prog. Alg. & Tech.: 2. 2D Graphics</td>
   </tr>
   <tr>
     <td>16/04</td>
