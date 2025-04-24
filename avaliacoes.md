@@ -21,7 +21,7 @@ Implementação **individual** de jogos clássicos em C++, com duração de 1-2 
 
 Proposta, implementação e teste de um pequeno jogo completo, **em grupos** (2-4 alunos), com duração de aproximadamente 7.5 semanas.
 
-- PF1: Documento de Design (5%)
+- [PF1: Documento de Design](pf1-gdd) (5%)
 - PF2: Protótipo (30%)
 - PF3: Playtest (5%)
 - PF4: Finalização (10%)

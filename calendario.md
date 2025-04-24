@@ -123,7 +123,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>12. Fundamentos de Game Design</td>
     <td></td>
     <td rowspan="2">
-      PF1: Game Design Document
+      <a href="{{ '/avaliacoes/pf1-gdd' | relative_url }}">PF1: Game Design Document</a>
     </td>
   </tr>
 
