@@ -19,7 +19,7 @@ Para o projeto final da disciplina, você irá desenvolver um pequeno jogo compl
 
 ## Instruções
 
-O seu jogo deve ser desenvovlido em C++/SDL em um grupo de no máximo 3 pessoas e deve conter: (1) menu inicial, (2) início e fim bem definidos, (3) sistema de progressão básica (dificuldade, narrativa, etc) e (4) interface para reiniciar o jogo quando ele terminar. Nessa primeira etapa, você irá escrever um Documento de Design de Jogo, do inglês, Game Design Document (GDD), para formalizar suas ideias de projeto. Seu GDD deve conter as seguinte seções escritas respeitando um limite de 6 a 10 páginas (1 coluna, espaçamento simples, margem 2.5cm): 
+O seu jogo deve ser **desenvovlido em C++/SDL em um grupo de no mínimo 2 e no máximo 5 pessoas**, contendo: (1) menu inicial, (2) início e fim bem definidos, (3) sistema de progressão básica (dificuldade, narrativa, etc) e (4) interface para reiniciar o jogo quando ele terminar. Nessa primeira etapa, você irá escrever um Documento de Design de Jogo, do inglês, Game Design Document (GDD), para formalizar suas ideias de projeto. Seu GDD deve conter as seguinte seções escritas respeitando um **limite de 6 a 10 páginas (1 coluna, espaçamento simples, margem 2.5cm)**: 
 
 1. **Título e Autores** 
 
