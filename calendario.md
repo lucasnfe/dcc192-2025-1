@@ -108,7 +108,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td>16/04</td>
     <td>11. Interface com o usuário<br><a href="{{ 'assets/slides/A11-interface.pdf' | relative_url }}">[slides]</a></td>
-    <td><a href="https://lazyfoo.net/articles/article06/index.php">Lazy Foo' Productions: State Machines</a></td>
+    <td>Lazy Foo' Productions:<a href="https://lazyfoo.net/articles/article06/index.php">State Machines</a></td>
   </tr>
 
   <!-- Semana 7 -->
