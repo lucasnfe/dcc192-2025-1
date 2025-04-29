@@ -107,8 +107,8 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   </tr>
   <tr>
     <td>16/04</td>
-    <td>11. Câmeras 2D e HUD</td>
-    <td></td>
+    <td>11. Interface com o usuário<br><a href="{{ 'assets/slides/A11-interface.pdf' | relative_url }}">[slides]</a></td>
+    <td><a href="https://lazyfoo.net/articles/article06/index.php">Lazy Foo' Productions: State Machines</a></td>
   </tr>
 
   <!-- Semana 7 -->
@@ -120,7 +120,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   </tr>
   <tr>
     <td>23/04</td>
-    <td>12. Fundamentos de Game Design</td>
+    <td>12. Fundamentos de Game Design I</td>
     <td></td>
     <td rowspan="2">
       <a href="{{ '/avaliacoes/pf1-gdd' | relative_url }}">PF1: Game Design Document</a>
@@ -131,7 +131,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">8</td>
     <td>28/04</td>
-    <td>13. Interface com o usuário</td>
+    <td>13. Fundamentos de Game Design II</td>
     <td></td>
   </tr>
   <tr>
