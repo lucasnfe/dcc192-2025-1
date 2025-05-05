@@ -136,8 +136,8 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   </tr>
   <tr>
     <td>30/04</td>
-    <td>14. Câmeras 2D (Intro. TP3)</td>
-    <td></td>
+    <td>14. Câmeras 2D (Intro. TP3)<br><a href="{{ 'assets/slides/A14-cameras2D.pdf' | relative_url }}">[slides]</a></td>
+    <td><a href='https://www.gamedeveloper.com/design/scroll-back-the-theory-and-practice-of-cameras-in-side-scrollers'>Scroll Back: The Theory and Practice of Cameras in Side-Scrollers</a></td>
     <td rowspan="4">
       <a href="{{ '/avaliacoes/tp3-smb' | relative_url }}">TP3: Super Mario Bros 1-1</a>
     </td>
