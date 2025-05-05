@@ -1,6 +1,6 @@
 ---
 title: Semana 7
-week: 57
+week: 7
 date: 2025-04-23
 ---
 

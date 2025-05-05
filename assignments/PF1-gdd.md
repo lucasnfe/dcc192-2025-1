@@ -1,11 +1,11 @@
 ---
 layout: page
-title:  PF1 - Game Design Document
+title:  PF1 - Document de Design
 permalink: /avaliacoes/pf1-gdd
 nav_exclude: true
 ---
 
-# PF1: Game Design Document
+# PF1: Documento de Design
 
 #### Entrega: 30/04 às 23:59h
 

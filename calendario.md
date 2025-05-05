@@ -136,10 +136,10 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   </tr>
   <tr>
     <td>30/04</td>
-    <td>14. Lab 3: Super Mario Bros</td>
+    <td>14. Câmeras 2D (Intro. TP3)</td>
     <td></td>
     <td rowspan="4">
-      TP3: Super Mario Bros 1-1
+      <a href="{{ '/avaliacoes/tp3-smb' | relative_url }}">TP3: Super Mario Bros 1-1</a>
     </td>
   </tr> 
 

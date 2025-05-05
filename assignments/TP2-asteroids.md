@@ -58,7 +58,7 @@ Nesse projeto, você irá desenvolver as mecânicas princiais de movimentação,
 
         Classe que estende `Actor` para representar uma partícula de laser, que é atirada pela nave quando o jogador pressiona a tecla **Espaço**.    
 
-    Observação: o código base desse projeto foi construído a partir do código do projeto anterior [[P1: Pong]](tp1-pong), portanto muitas das classes já foram introduzidas anteriormente. As novas classes desse projeto são
+    Observação: o código base desse projeto foi construído a partir do código do projeto anterior [[TP1: Pong]](tp1-pong), portanto muitas das classes já foram introduzidas anteriormente.
 
 ## Instruções
 
@@ -175,8 +175,7 @@ Na quarta, e última etapa, você irá ajustar as variáveis do jogo para criar 
 
 ## Submissão
 
-Para submeter o seu trabalho, basta fazer o *commit* e o *push* das suas alterações no repositório que foi criado para
-você no GitHub classroom.
+Para submeter o seu trabalho, basta fazer o *commit* e o *push* das suas alterações no repositório que foi criado para você no GitHub classroom.
 
 ```
 git add .
