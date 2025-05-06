@@ -48,7 +48,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   </tr>
   <tr>
     <td>19/03</td>
-    <td>3. Game Loop<br><a href="{{ 'assets/slides/A03-game-loop.pdf' | relative_url }}">[slides]</a></td>
+    <td>3. Eng. Soft.: Game Loop<br><a href="{{ 'assets/slides/A03-game-loop.pdf' | relative_url }}">[slides]</a></td>
     <td>Game Prog. Patterns:<br><a href="https://gameprogrammingpatterns.com/game-loop.html">9. Game Loop</a></td>
   </tr>
 
@@ -56,12 +56,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">3</td>
     <td>24/03</td>
-    <td>4. Game Objects<br><a href="{{ 'assets/slides/A04-game-objects.pdf' | relative_url }}">[slides]</a></td>
+    <td>4. Eng. Soft.: Game Objects<br><a href="{{ 'assets/slides/A04-game-objects.pdf' | relative_url }}">[slides]</a></td>
     <td>Game Prog. Patterns:<br><a href="https://gameprogrammingpatterns.com/update-method.html">10. Update Method</a><br><a href="https://gameprogrammingpatterns.com/component.html">14. Component</a></td>
   </tr>
   <tr>
     <td>26/03</td>
-    <td>5. Vetores (Intro. TP1)<br><a href="{{ 'assets/slides/A05-vetores.pdf' | relative_url }}">[slides]</a></td>
+    <td>5. Física: Vetores (Intro. TP1)<br><a href="{{ 'assets/slides/A05-vetores.pdf' | relative_url }}">[slides]</a></td>
     <td>The Nature of Code:<br><a href="https://natureofcode.com/vectors/">1. Vectors</a></td>
     <td rowspan="4">
       <a href="{{ '/avaliacoes/tp1-pong' | relative_url }}">TP1: Pong</a>
@@ -72,12 +72,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">4</td>
     <td>31/03</td>
-    <td>6. Objetos Rígidos<br><a href="{{ 'assets/slides/A06-rigid-bodies.pdf' | relative_url }}">[slides]</a></td>
+    <td>6. Física: Objetos Rígidos<br><a href="{{ 'assets/slides/A06-rigid-bodies.pdf' | relative_url }}">[slides]</a></td>
     <td>The Nature of Code:<br><a href="https://natureofcode.com/forces/">2. Forces</a></td>
   </tr>
   <tr>
     <td>02/04</td>
-    <td>7. Detect. de Colisão I<br><a href="{{ 'assets/slides/A07-colisaoI.pdf' | relative_url }}">[slides]</a></td>
+    <td>7. Física: Colisão I<br><a href="{{ 'assets/slides/A07-colisaoI.pdf' | relative_url }}">[slides]</a></td>
     <td><a href="https://www.jeffreythompson.org/collision-detection/index.php">Jeff Thompson's Collision Detection Tutorial</a></td>
   </tr>
 
@@ -85,12 +85,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">5</td>
     <td>07/04</td>
-    <td>8. Detect. de Colisão II<br><a href="{{ 'assets/slides/A08-colisaoII.pdf' | relative_url }}">[slides]</a></td>
+    <td>8. Física: Colisão II<br><a href="{{ 'assets/slides/A08-colisaoII.pdf' | relative_url }}">[slides]</a></td>
     <td>Game Prog. Patterns:<br><a href="https://gameprogrammingpatterns.com/spatial-partition.html">20. Spatial Partition</a></td>
   </tr>
   <tr>
     <td>09/04</td>
-    <td>9. Sistemas de Partículas (Intro. TP2)<br><a href="{{ 'assets/slides/A09-particulas.pdf' | relative_url }}">[slides]</a></td>
+    <td>9. Gráficos 2D: Partículas (Intro. TP2)<br><a href="{{ 'assets/slides/A09-particulas.pdf' | relative_url }}">[slides]</a></td>
     <td>The Nature of Code: <br><a href="https://natureofcode.com/particles/">4. Particle Systems</a><br>
     Game Prog. Patterns: <a href="https://gameprogrammingpatterns.com/object-pool.html">19. Object Pool</a></td>
     <td rowspan="4">
@@ -102,12 +102,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">6</td>
     <td>14/04</td>
-    <td>10. Gráficos 2D<br><a href="{{ 'assets/slides/A10-graficos2d.pdf' | relative_url }}">[slides]</a></td>
+    <td>10. Gráficos 2D: Fundamentos<br><a href="{{ 'assets/slides/A10-graficos2d.pdf' | relative_url }}">[slides]</a></td>
     <td>Game Prog. Alg. & Tech.: 2. 2D Graphics</td>
   </tr>
   <tr>
     <td>16/04</td>
-    <td>11. Interface com o usuário<br><a href="{{ 'assets/slides/A11-interface.pdf' | relative_url }}">[slides]</a></td>
+    <td>11. Gráficos 2D: Interfaces<br><a href="{{ 'assets/slides/A11-interface.pdf' | relative_url }}">[slides]</a></td>
     <td>Lazy Foo' Productions:<a href="https://lazyfoo.net/articles/article06/index.php"> State Machines</a></td>
   </tr>
 
@@ -120,7 +120,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   </tr>
   <tr>
     <td>23/04</td>
-    <td>12. Fundamentos de Game Design I</td>
+    <td>12. Game Design I</td>
     <td></td>
     <td rowspan="2">
       <a href="{{ '/avaliacoes/pf1-gdd' | relative_url }}">PF1: Game Design Document</a>
@@ -131,12 +131,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">8</td>
     <td>28/04</td>
-    <td>13. Fundamentos de Game Design II</td>
+    <td>13. Game Design II</td>
     <td></td>
   </tr>
   <tr>
     <td>30/04</td>
-    <td>14. Câmeras 2D (Intro. TP3)<br><a href="{{ 'assets/slides/A14-cameras2d.pdf' | relative_url }}">[slides]</a></td>
+    <td>14. Gráficos 2D: Câmeras (Intro. TP3)<br><a href="{{ 'assets/slides/A14-cameras2d.pdf' | relative_url }}">[slides]</a></td>
     <td><a href='https://www.gamedeveloper.com/design/scroll-back-the-theory-and-practice-of-cameras-in-side-scrollers'>Scroll Back: The Theory and Practice of Cameras in Side-Scrollers</a></td>
     <td rowspan="4">
       <a href="{{ '/avaliacoes/tp3-smb' | relative_url }}">TP3: Super Mario Bros 1-1</a>
@@ -152,7 +152,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   </tr>
   <tr>
     <td>07/05</td>
-    <td>16. Áudio: sistemas</td>
+    <td>16. Áudio: reprodução e filtros</td>
     <td></td>
   </tr> 
 
@@ -160,12 +160,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">10</td>
     <td>12/05</td>
-    <td>17. Áudio: sequenciamento</td>
+    <td>17. Áudio: composição</td>
     <td></td>
   </tr>
   <tr>
     <td>14/05</td>
-    <td>18. Persistência de Dados (Intro TP4)</td>
+    <td>18. Gráficos 2D: HUD (Intro TP4)</td>
     <td></td>
     <td rowspan="4">
      TP4: Super Mario Bros 1-2
@@ -205,12 +205,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">13</td>
     <td>02/06</td>
-    <td>23. Gráficos 3D: Pipeline Gráfico</td>
+    <td>23. Narrativas: Cutscenes</td>
     <td></td>
   </tr>
   <tr>
     <td>04/06</td>
-    <td>24. Gráficos 3D: Modelos</td>
+    <td>24. Narrativas: Missões</td>
     <td></td>
   </tr>
 
@@ -218,12 +218,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">14</td>
     <td>09/06</td>
-    <td>25. Gráficos 3D: Transformações</td>
+    <td>25. Eng. Soft.: Persistência de Dados</td>
     <td></td>
   </tr>
   <tr>
     <td>11/06</td>
-    <td>26. Gráficos 3D: Shaders</td>
+    <td>26. Gráficos 3D: Pipeline Gráfico</td>
     <td></td>
   </tr> 
 
@@ -231,12 +231,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">15</td>
     <td>16/06</td>
-    <td>27. Gráficos 3D: Visibilidade</td>
+    <td>27. Gráficos 3D: Modelos e Transformações</td>
     <td></td>
   </tr>
   <tr>
     <td>18/06</td>
-    <td>28. Gráficos 3D: Cores e Texturas</td>
+    <td>28. Gráficos 3D: Shaders</td>
     <td></td>
   </tr> 
 
@@ -261,7 +261,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">17</td>
     <td>30/06</td>
-    <td>30. Eng Soft: Debug & Teste</td>
+    <td>30. Motores Profissionais</td>
     <td></td>
   </tr>
   <tr>
