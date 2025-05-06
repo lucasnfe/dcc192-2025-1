@@ -136,7 +136,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   </tr>
   <tr>
     <td>30/04</td>
-    <td>14. Câmeras 2D (Intro. TP3)<br><a href="{{ 'assets/slides/A14-cameras2D.pdf' | relative_url }}">[slides]</a></td>
+    <td>14. Câmeras 2D (Intro. TP3)<br><a href="{{ 'assets/slides/A14-cameras2d.pdf' | relative_url }}">[slides]</a></td>
     <td><a href='https://www.gamedeveloper.com/design/scroll-back-the-theory-and-practice-of-cameras-in-side-scrollers'>Scroll Back: The Theory and Practice of Cameras in Side-Scrollers</a></td>
     <td rowspan="4">
       <a href="{{ '/avaliacoes/tp3-smb' | relative_url }}">TP3: Super Mario Bros 1-1</a>
@@ -147,12 +147,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">9</td>
     <td>05/05</td>
-    <td>15. Gráficos 3D: Pipeline Gráfico</td>
+    <td>15. Áudio: síntese</td>
     <td></td>
   </tr>
   <tr>
     <td>07/05</td>
-    <td>16. Gráficos 3D: Objetos 3D</td>
+    <td>16. Áudio: sistemas</td>
     <td></td>
   </tr> 
 
@@ -160,15 +160,15 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">10</td>
     <td>12/05</td>
-    <td>17. Gráficos 3D: Transformações</td>
+    <td>17. Áudio: sequenciamento</td>
     <td></td>
   </tr>
   <tr>
     <td>14/05</td>
-    <td>18. Lab 4: Star Fox</td>
+    <td>18. Persistência de Dados (Intro TP4)</td>
     <td></td>
     <td rowspan="4">
-      TP4: Star Fox Tunel
+     TP4: Super Mario Bros 1-2
     </td>
   </tr>
 
@@ -176,12 +176,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">11</td>
     <td>19/05</td>
-    <td>29. Gráficos 3D: Cores e Texturas</td>
+    <td>19. IA: Máquinas de Estados Finitos</td>
     <td></td>
   </tr>
   <tr>
     <td>21/05</td>
-    <td>20. Gráficos 3D: Shaders</td>
+    <td>20. IA: Pathfinding</td>
     <td></td>
   </tr>
 
@@ -189,15 +189,15 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">12</td>
     <td>26/05</td>
-    <td>21. Gráficos 3D: Visibilidade</td>
+    <td>21. IA: Game Playing</td>
     <td></td>
   </tr>
   <tr>
     <td>28/05</td>
-    <td>22. IA: Máquinas de Estados Finitos</td>
+    <td>22. IA: Procedural Content Generation</td>
     <td></td>
     <td rowspan="7">
-      TP3: Prototipação
+      PF2: Prototipação
     </td>
   </tr> 
 
@@ -205,12 +205,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">13</td>
     <td>02/06</td>
-    <td>23. IA: Pathfinding</td>
+    <td>23. Gráficos 3D: Pipeline Gráfico</td>
     <td></td>
   </tr>
   <tr>
     <td>04/06</td>
-    <td>24. IA: Game Playing</td>
+    <td>24. Gráficos 3D: Modelos</td>
     <td></td>
   </tr>
 
@@ -218,12 +218,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">14</td>
     <td>09/06</td>
-    <td>25. IA: Procedural Content Generation</td>
+    <td>25. Gráficos 3D: Transformações</td>
     <td></td>
   </tr>
   <tr>
     <td>11/06</td>
-    <td>26. Áudio: representações</td>
+    <td>26. Gráficos 3D: Shaders</td>
     <td></td>
   </tr> 
 
@@ -231,12 +231,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">15</td>
     <td>16/06</td>
-    <td>27. Áudio: síntese</td>
+    <td>27. Gráficos 3D: Visibilidade</td>
     <td></td>
   </tr>
   <tr>
     <td>18/06</td>
-    <td>28. Áudio: sequenciamento</td>
+    <td>28. Gráficos 3D: Cores e Texturas</td>
     <td></td>
   </tr> 
 
@@ -253,7 +253,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td><b>Atividades Complementares</b></td>
     <td></td>
     <td rowspan="3">
-      TP3: Finalização
+      PF4: Finalização
     </td>
   </tr> 
 
