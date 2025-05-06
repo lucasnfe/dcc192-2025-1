@@ -236,7 +236,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   </tr>
   <tr>
     <td>18/06</td>
-    <td>28. Gráficos 3D: Shaders</td>
+    <td>28. Gráficos 3D: Iluminação</td>
     <td></td>
   </tr> 
 
@@ -244,7 +244,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">16</td>
     <td>23/06</td>
-    <td><b>Playtesting</b></td>
+    <td>29. Gráficos 3D: Shaders</td>
     <td></td>
     <td>PF3: Playtesting</td>
   </tr>
