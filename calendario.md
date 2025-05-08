@@ -147,8 +147,8 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">9</td>
     <td>05/05</td>
-    <td>15. Áudio: síntese</td>
-    <td></td>
+    <td>15. Áudio: síntese<br><a href="{{ 'assets/slides/A15-audio-synth.pdf' | relative_url }}">[slides]</a></td>
+    <td><a href="https://pudding.cool/2018/02/waveforms/">The Pudding: Waveforms</a></td>
   </tr>
   <tr>
     <td>07/05</td>
