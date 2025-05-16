@@ -152,8 +152,8 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   </tr>
   <tr>
     <td>07/05</td>
-    <td>16. Áudio: reprodução e filtros</td>
-    <td></td>
+    <td>16. Áudio: reprodução<br><a href="{{ 'assets/slides/A16-audio-system.pdf' | relative_url }}">[slides]</a></td>
+    <td>Game Prog. Alg. & Tech.: 6. Sound</td>
   </tr> 
 
   <!-- Semana 10 -->
