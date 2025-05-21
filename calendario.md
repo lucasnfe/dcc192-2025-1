@@ -165,8 +165,8 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   </tr>
   <tr>
     <td>14/05</td>
-    <td>18. Gráficos 2D: HUD (Intro TP4)</td>
-    <td></td>
+    <td>18. Gráficos 2D: HUD (Intro TP4)<br><a href="{{ 'assets/slides/A18-hud.pdf' | relative_url }}">[slides]</a></td>
+    <td>Game Prog. Alg. & Tech.: 10. User Interfaces</td>
     <td rowspan="4">
      TP4: Super Mario Bros 1-2
     </td>
