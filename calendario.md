@@ -176,8 +176,8 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">11</td>
     <td>19/05</td>
-    <td>19. IA: Máquinas de Estados Finitos</td>
-    <td></td>
+    <td>19. IA: Modelagem de Comportamento<br><a href="{{ 'assets/slides/A19-ia1-fsm.pdf' | relative_url }}">[slides]</a></td>
+    <td>Game Prog. Alg. & Tech.: 9. Artificial Intelligence (State-Based Behaviors)</td>
   </tr>
   <tr>
     <td>21/05</td>
@@ -189,7 +189,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">12</td>
     <td>26/05</td>
-    <td>21. IA: Game Playing</td>
+    <td>21. IA: Steering Behaviors</td>
     <td></td>
   </tr>
   <tr>
