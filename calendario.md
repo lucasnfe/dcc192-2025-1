@@ -148,7 +148,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td rowspan="2">9</td>
     <td>05/05</td>
     <td>15. Áudio: síntese<br><a href="{{ 'assets/slides/A15-audio-synth.pdf' | relative_url }}">[slides]</a></td>
-    <td><a href="https://pudding.cool/2018/02/waveforms/">The Pudding: Waveforms</a></td>
+    <td>The Pudding: <a href="https://pudding.cool/2018/02/waveforms/">Waveforms</a></td>
   </tr>
   <tr>
     <td>07/05</td>
@@ -160,13 +160,13 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">10</td>
     <td>12/05</td>
-    <td>17. Áudio: composição</td>
+    <td>17. Áudio: Composição I</td>
     <td></td>
   </tr>
   <tr>
     <td>14/05</td>
-    <td>18. Gráficos 2D: HUD (Intro TP4)<br><a href="{{ 'assets/slides/A18-hud.pdf' | relative_url }}">[slides]</a></td>
-    <td>Game Prog. Alg. & Tech.: 10. User Interfaces</td>
+    <td>17. Áudio: Composição II</td>
+    <td></td>
     <td rowspan="4">
      TP4: Super Mario Bros 1-2
     </td>
@@ -176,26 +176,26 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">11</td>
     <td>19/05</td>
-    <td>19. IA: Modelagem de Comportamento<br><a href="{{ 'assets/slides/A19-ia1-behavior.pdf' | relative_url }}">[slides]</a></td>
-    <td>Game Prog. Alg. & Tech.: 9. Artificial Intelligence (State-Based Behaviors)</td>
+    <td>18. Gráficos 2D: HUD (Intro TP4)<br><a href="{{ 'assets/slides/A18-hud.pdf' | relative_url }}">[slides]</a></td>
+    <td>Game Prog. Alg. & Tech.: 10. User Interfaces</td>
   </tr>
   <tr>
     <td>21/05</td>
-    <td>20. IA: Pathfinding</td>
-    <td></td>
+    <td>19. IA: Modelagem de Comportamento<br><a href="{{ 'assets/slides/A19-ia1-behavior.pdf' | relative_url }}">[slides]</a></td>
+    <td>Game Prog. Alg. & Tech.: 9. Artificial Intelligence (State-Based Behaviors)</td>
   </tr>
 
   <!-- Semana 12 -->
   <tr>
     <td rowspan="2">12</td>
     <td>26/05</td>
-    <td>21. IA: Steering Behaviors</td>
+    <td>20. IA: Pathfinding I<br><a href="{{ 'assets/slides/A20-ia2-pathfindingI.pdf' | relative_url }}">[slides]</a></td>
     <td></td>
   </tr>
   <tr>
     <td>28/05</td>
-    <td>22. IA: Procedural Content Generation</td>
-    <td></td>
+    <td>21. IA: Pathfinding II<br><a href="{{ 'assets/slides/A21-ia2-pathfinding2.pdf' | relative_url }}">[slides]</a></td>
+    <td>Red Blob Games: <a href="https://www.redblobgames.com/pathfinding/a-star/introduction.html">Introduction to the A* Algorithm</a></td>
     <td rowspan="7">
       PF2: Prototipação
     </td>
@@ -205,12 +205,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">13</td>
     <td>02/06</td>
-    <td>23. Narrativas: Cutscenes</td>
-    <td></td>
+    <td>22. IA: Steering Behaviors<br><a href="{{ 'assets/slides/A22-ia3-steering.pdf' | relative_url }}">[slides]</a></td>
+    <td>The Nature of Code:<br><a href="https://natureofcode.com/forces/">5. Autonomous Agents</a></td>
   </tr>
   <tr>
     <td>04/06</td>
-    <td>24. Narrativas: Missões</td>
+    <td>23. IA: Procedural Content Generation</td>
     <td></td>
   </tr>
 
@@ -218,12 +218,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">14</td>
     <td>09/06</td>
-    <td>25. Eng. Soft.: Persistência de Dados</td>
+    <td>24. Narrativas: Cutscenes e Missões</td>
     <td></td>
   </tr>
   <tr>
     <td>11/06</td>
-    <td>26. Gráficos 3D: Pipeline Gráfico</td>
+    <td>25. Eng. Soft.: Persistência de Dados</td>
     <td></td>
   </tr> 
 
@@ -231,12 +231,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">15</td>
     <td>16/06</td>
-    <td>27. Gráficos 3D: Modelos e Transformações</td>
+    <td>26. Gráficos 3D: Pipeline Gráfico</td>
     <td></td>
   </tr>
   <tr>
     <td>18/06</td>
-    <td>28. Gráficos 3D: Iluminação</td>
+    <td>27. Gráficos 3D: Modelos e Transformações</td>
     <td></td>
   </tr> 
 
@@ -244,7 +244,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">16</td>
     <td>23/06</td>
-    <td>29. Gráficos 3D: Shaders</td>
+    <td>28. Gráficos 3D: Iluminação</td>
     <td></td>
     <td>PF3: Playtesting</td>
   </tr>
@@ -261,12 +261,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">17</td>
     <td>30/06</td>
-    <td>30. Motores Profissionais</td>
+    <td>29. Gráficos 3D: Shaders</td>
     <td></td>
   </tr>
   <tr>
     <td>02/07</td>
-    <td>31. Conclusão</td>
+    <td>30. Conclusão</td>
     <td></td>
   </tr>
 
