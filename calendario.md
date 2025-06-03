@@ -138,9 +138,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>30/04</td>
     <td>14. Gráficos 2D: Câmeras (Intro. TP3)<br><a href="{{ 'assets/slides/A14-cameras2d.pdf' | relative_url }}">[slides]</a></td>
     <td><a href='https://www.gamedeveloper.com/design/scroll-back-the-theory-and-practice-of-cameras-in-side-scrollers'>Scroll Back: The Theory and Practice of Cameras in Side-Scrollers</a></td>
-    <td rowspan="4">
-      <a href="{{ '/avaliacoes/tp3-smb' | relative_url }}">TP3: Super Mario Bros 1-1</a>
-    </td>
+    <td></td>
   </tr> 
 
   <!-- Semana 9 -->
@@ -149,7 +147,11 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>05/05</td>
     <td>15. Áudio: síntese<br><a href="{{ 'assets/slides/A15-audio-synth.pdf' | relative_url }}">[slides]</a></td>
     <td>The Pudding: <a href="https://pudding.cool/2018/02/waveforms/">Waveforms</a></td>
+    <td rowspan="4">
+      <a href="{{ '/avaliacoes/tp3-smb' | relative_url }}">TP3: Super Mario Bros 1-1</a>
+    </td>
   </tr>
+  
   <tr>
     <td>07/05</td>
     <td>16. Áudio: reprodução<br><a href="{{ 'assets/slides/A16-audio-system.pdf' | relative_url }}">[slides]</a></td>
@@ -167,9 +169,6 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>14/05</td>
     <td>17. Áudio: Composição II</td>
     <td></td>
-    <td rowspan="4">
-     TP4: Super Mario Bros 1-2
-    </td>
   </tr>
 
   <!-- Semana 11 -->
@@ -178,11 +177,13 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>19/05</td>
     <td>18. Gráficos 2D: HUD (Intro TP4)<br><a href="{{ 'assets/slides/A18-hud.pdf' | relative_url }}">[slides]</a></td>
     <td>Game Prog. Alg. & Tech.: 10. User Interfaces</td>
+    <td></td>
   </tr>
   <tr>
     <td>21/05</td>
     <td>19. IA: Modelagem de Comportamento<br><a href="{{ 'assets/slides/A19-ia1-behavior.pdf' | relative_url }}">[slides]</a></td>
     <td>Game Prog. Alg. & Tech.: 9. Artificial Intelligence (State-Based Behaviors)</td>
+    <td></td>
   </tr>
 
   <!-- Semana 12 -->
@@ -191,14 +192,13 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>26/05</td>
     <td>20. IA: Pathfinding I<br><a href="{{ 'assets/slides/A20-ia2-pathfindingI.pdf' | relative_url }}">[slides]</a></td>
     <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>28/05</td>
     <td>21. IA: Pathfinding II<br><a href="{{ 'assets/slides/A21-ia2-pathfinding2.pdf' | relative_url }}">[slides]</a></td>
     <td>Red Blob Games: <a href="https://www.redblobgames.com/pathfinding/a-star/introduction.html">Introduction to the A* Algorithm</a></td>
-    <td rowspan="7">
-      PF2: Prototipação
-    </td>
+    <td></td>
   </tr> 
 
   <!-- Semana 13 -->
@@ -207,6 +207,9 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>02/06</td>
     <td>22. IA: Steering Behaviors<br><a href="{{ 'assets/slides/A22-ia3-steering.pdf' | relative_url }}">[slides]</a></td>
     <td>The Nature of Code:<br><a href="https://natureofcode.com/forces/">5. Autonomous Agents</a></td>
+    <td rowspan="4">
+      <a href="{{ '/avaliacoes/tp4-smb2' | relative_url }}">TP4: Super Mario Bros 1-2</a>
+    </td>
   </tr>
   <tr>
     <td>04/06</td>
@@ -233,6 +236,9 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>16/06</td>
     <td>26. Gráficos 3D: Pipeline Gráfico</td>
     <td></td>
+    <td rowspan="4">
+      PF2: Prototipação
+    </td>
   </tr>
   <tr>
     <td>18/06</td>
@@ -246,15 +252,11 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>23/06</td>
     <td>28. Gráficos 3D: Iluminação</td>
     <td></td>
-    <td>PF3: Playtesting</td>
   </tr>
   <tr>
     <td>25/06</td>
     <td><b>Atividades Complementares</b></td>
     <td></td>
-    <td rowspan="3">
-      PF4: Finalização
-    </td>
   </tr> 
 
   <!-- Semana 17 -->
@@ -263,6 +265,9 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>30/06</td>
     <td>29. Gráficos 3D: Shaders</td>
     <td></td>
+    <td rowspan="2">
+      PF3: Playtest & Finalização
+    </td>
   </tr>
   <tr>
     <td>02/07</td>
