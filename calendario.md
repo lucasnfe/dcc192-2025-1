@@ -206,7 +206,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td rowspan="2">13</td>
     <td>02/06</td>
     <td>22. IA: Steering Behaviors<br><a href="{{ 'assets/slides/A22-ia3-steering.pdf' | relative_url }}">[slides]</a></td>
-    <td>The Nature of Code:<br><a href="https://natureofcode.com/forces/">5. Autonomous Agents</a></td>
+    <td>The Nature of Code:<br><a href="https://natureofcode.com/autonomous-agents/">5. Autonomous Agents</a></td>
     <td rowspan="4">
       <a href="{{ '/avaliacoes/tp4-smb2' | relative_url }}">TP4: Super Mario Bros 1-2</a>
     </td>
