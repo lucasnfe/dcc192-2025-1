@@ -294,9 +294,11 @@ Ao final dessa última etapa, você deveria ouvir as músicas de fundo da primei
 
 Na quinta, e última etapa, você irá ajustar as variáveis do jogo para criar uma versão única do Super Mário Bros.
 
-1. Adicione moedas coletáveis nas fases, incluindo um contador no HUD para contar o número de moedas coletadas. Sugestão, crie um novo actor para itens coletáveis, como moedas e power ups. 
+1. Modifique a tela do menu principal (logo, botões, background, etc...) para que ele fique o mais parecido com a do jogo original.
 
-2. Adicione um efeito cross-fade (fade our + fade in) no gerenciador de cenas. 
+2. Adicione moedas coletáveis nas fases, incluindo um contador no HUD para contar o número de moedas coletadas. Sugestão, crie um novo actor para itens coletáveis, como moedas e power ups. 
+
+3. Adicione um efeito cross-fade (fade our + fade in) no gerenciador de cenas. 
 
 ## Submissão
 
