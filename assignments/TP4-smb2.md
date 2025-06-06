@@ -136,7 +136,7 @@ Você deveria ver uma tela conforme a imagem a seguir:
 
     3. Implemente o método `HandleKeyPress()` para navegar na lista de botões com o teclado.
 
-    3. Implemente o método `AddButton()` para adicionar botões à tela
+    4. Implemente o método `AddButton()` para adicionar botões à tela
 
 Ao final dessa etapa, você deveria ser capaz de adicionar botões às tela. Para testar o seu código, adicione o seguinte trecho ao método `Game::LoadMainMenu()` abaixo da linha que adicionou na etapa anterior para criar um texto:
 
@@ -156,30 +156,23 @@ Assumindo que você manteve o texto criado na etapa anterior, você deveria ver 
 
 #### **Parte 1-3: Imagens**
 
-Carregar uma imagem de UI é similar à carregar um texto, pois também envolve criar uma textura, mas dessa vez a partir
-de um arquivo de imagem armazenado na memória secundária, ao invés de uma fonte true type.  
+Carregar uma imagem de UI é similar à carregar um texto, pois também envolve criar uma textura, mas dessa vez a partir de um arquivo de imagem armazenado na memória secundária, ao invés de uma fonte true type.  
 
 - **UIImage.cpp**
 
-1. Complemente o código do destrutor para destruir os botões que foram adicionados à tela.
+1. Implemente o construtor da classe para carregar uma textura que será desenhada por essa imagem.
+
+2. Implemente o destrutor da classe para destruir a textura que foi carregada no construtor.
+
+3. Implemente o método `Draw()` para desenhar a textura na tela.
 
 - **UIScreen.cpp**
 
-### **Parte 2: Gerenciamento de Cenas**
+1. Complemente o código do destrutor para destruir as imagens que foram adicionados à tela.
 
-Na segunda parte, você irá implementar um sistema básico de UI 
+2. Complemente o método `Draw()` para desenhar as imagens.
 
-- **Game.cpp**
-
-    1. Implemente o método `UpdateCamera` para fazer a câmera seguir o jogador
-
-- **Mario.cpp**
-
-    1. Adicione o componente `RigidBodyComponent` no construtor do personagem para habilitar sua movimentação. Utilize a função `SetApplyGravity` para desabilitar a gravidade do personagem enquanto você estiver trabalhando na parte 2: isso irá facilitar o teste da câmera.
-
-    2. Implemente o método `OnProcessInput` para mover o jogador horizontalmente
-
-    3. Modifique o método `OnUpdate` para garantir que a posição horizontal do jogador esteja sempre à frente da câmera
+3. Implemente o método `AddImage()` para adicionar imagens à tela.
 
 Ao final dessa etapa, você deveria ser capaz de criar imagens nas telas de UI. Para testar o seu código, susbtitua o código que carrega o texto pelo que carrega a imagem: 
 
