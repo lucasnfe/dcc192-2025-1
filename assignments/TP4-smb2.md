@@ -279,9 +279,9 @@ O parâmetro `soundName` é o nome do arquivo de áudio armazenado no diretório
 
 - **Mario.cpp**
 
-Todos os efeitos sonoros de interação do Mario com objetos do jogo, como inimigos e moedas, serão implementados na classe do Mario. Utilize o AudioSystem implementado para tocar os sons necessários (vide os TODOs desse arquivo).
+    Todos os efeitos sonoros de interação do Mario com objetos do jogo, como inimigos e moedas, serão implementados na classe do Mario. Utilize o AudioSystem implementado para tocar os sons necessários (vide os TODOs desse arquivo).
 
-Ao final dessa última etapa, você deveria ouvir as músicas de fundo da primeira e segunda fase, bem como os efeitos sonoros de ações do Mario (pular, colisão com bloco, matar goomba, etc.) e o feedback sonoro de pause, como no vídeo do início do roteiro. 
+    Ao final dessa última etapa, você deveria ouvir as músicas de fundo da primeira e segunda fase, bem como os efeitos sonoros de ações do Mario (pular, colisão com bloco, matar goomba, etc.) e o feedback sonoro de pause, como no vídeo do início do roteiro. 
 
 ### **Parte 5: Customização**
 
