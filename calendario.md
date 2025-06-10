@@ -163,12 +163,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td rowspan="2">10</td>
     <td>12/05</td>
     <td>17. Áudio: Composição I</td>
-    <td></td>
+    <td><a href="https://www.musictheory.net/lessons">MusicTheory.net: Lessons</a></td>
   </tr>
   <tr>
     <td>14/05</td>
     <td>17. Áudio: Composição II</td>
-    <td></td>
+    <td><a href="https://www.youtube.com/watch?v=dMkTdYmOgiQ&t=88s&ab_channel=Zectro">Zectro: A Guide to Making Video Game Music</a></td>
   </tr>
 
   <!-- Semana 11 -->
