@@ -221,12 +221,12 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">14</td>
     <td>09/06</td>
-    <td>24. Narrativas: Cutscenes e Missões</td>
+    <td>24. Narrativas: Cutscenes e Missões<br><a href="{{ 'assets/slides/A24-narratives-cutscene.pdf' | relative_url }}">[slides]</a></td>
     <td></td>
   </tr>
   <tr>
     <td>11/06</td>
-    <td>25. Eng. Soft.: Persistência de Dados</td>
+    <td>25. Eng. Soft.: Persistência de Dados<br><a href="{{ 'assets/slides/A25-narratives-quests.pdf' | relative_url }}">[slides]</a></td>
     <td></td>
   </tr> 
 
@@ -234,7 +234,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">15</td>
     <td>16/06</td>
-    <td>26. Gráficos 3D: Pipeline Gráfico</td>
+    <td>26. Gráficos 3D: Fundamentos<br><a href="{{ 'assets/slides/A26-graphics1.pdf' | relative_url }}">[slides]</a></td>
     <td></td>
     <td rowspan="4">
       PF2: Prototipação
