@@ -221,13 +221,13 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">14</td>
     <td>09/06</td>
-    <td>24. Narrativas: Cutscenes e Missões<br><a href="{{ 'assets/slides/A24-narratives-cutscene.pdf' | relative_url }}">[slides]</a></td>
+    <td>24. Narrativas: Cutscenes<br><a href="{{ 'assets/slides/A24-narratives-cutscene.pdf' | relative_url }}">[slides]</a></td>
     <td></td>
   </tr>
   <tr>
     <td>11/06</td>
-    <td>25. Eng. Soft.: Persistência de Dados<br><a href="{{ 'assets/slides/A25-narratives-quests.pdf' | relative_url }}">[slides]</a></td>
-    <td></td>
+    <td>25. Narrativas: Quests<br><a href="{{ 'assets/slides/A25-narratives-quests.pdf' | relative_url }}">[slides]</a></td>
+    <td>Leszek Szczepanski's GDC Talk: <a href="https://www.youtube.com/watch?v=ykPZcG8_mPU&ab_channel=GameDevelopersConference">Building Non-Linear Narratives in Horizon: Zero Dawn</a></td>
   </tr> 
 
   <!-- Semana 15 -->
