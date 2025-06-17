@@ -235,7 +235,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td rowspan="2">15</td>
     <td>16/06</td>
     <td>26. Gráficos 3D: Fundamentos<br><a href="{{ 'assets/slides/A26-graphics1.pdf' | relative_url }}">[slides]</a></td>
-    <td></td>
+    <td>Introdução à Computação Gráfica - IME/USP: <a href="https://panda.ime.usp.br/introcg/static/introcg/">Caps 1,2,3</a></td>
     <td rowspan="4">
       PF2: Prototipação
     </td>
