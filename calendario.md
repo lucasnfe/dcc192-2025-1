@@ -234,7 +234,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">15</td>
     <td>16/06</td>
-    <td>26. Gráficos 3D: Fundamentos<br><a href="{{ 'assets/slides/A26-graphics1.pdf' | relative_url }}">[slides]</a></td>
+    <td>26. Gráficos 3D: Fundamentos e Modelos<br><a href="{{ 'assets/slides/A26-graphics1.pdf' | relative_url }}">[slides]</a></td>
     <td>Game Engine Architecture: 10. The Rendering Engine (pgs. 443-453) </td>
     <td rowspan="4">
       PF2: Prototipação
@@ -242,7 +242,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   </tr>
   <tr>
     <td>18/06</td>
-    <td>27. Gráficos 3D: Modelos e Transformações</td>
+    <td>27. Gráficos 3D: Transformações<br><a href="{{ 'assets/slides/A27-graphics2.pdf' | relative_url }}">[slides]</a></td>
     <td></td>
   </tr> 
 
@@ -250,7 +250,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">16</td>
     <td>23/06</td>
-    <td>28. Gráficos 3D: Iluminação</td>
+    <td>28. Gráficos 3D: Câmera e Projeções<br><a href="{{ 'assets/slides/A28-graphics3.pdf' | relative_url }}">[slides]</a></td>
     <td></td>
   </tr>
   <tr>
@@ -263,7 +263,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
   <tr>
     <td rowspan="2">17</td>
     <td>30/06</td>
-    <td>29. Gráficos 3D: Shaders</td>
+    <td>29. Gráficos 3D: Iluminação</td>
     <td></td>
     <td rowspan="2">
       PF3: Playtest & Finalização
