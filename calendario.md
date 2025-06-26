@@ -266,7 +266,7 @@ Calendário da disciplina com base na [[RESOLUÇÃO CEPE Nº 04/2024]](https://u
     <td>29. Gráficos 3D: Iluminação</td>
     <td></td>
     <td rowspan="2">
-      PF3: Finalização
+     <a href="{{ '/avaliacoes/pf3-launch' | relative_url }}">PF3: Finalização</a>
     </td>
   </tr>
   <tr>

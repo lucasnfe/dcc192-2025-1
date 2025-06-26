@@ -23,7 +23,7 @@ Proposta, implementação e teste de um pequeno jogo completo, **em grupos** (2-
 
 - [PF1: Documento de Design](pf1-gdd) (5%)
 - [PF2: Protótipo & Playtest](pf2-playtest) (30%)
-- PF3: Finalização (15%)
+- [PF3: Lançamento](pf3-launch) (15%)
 - <s>PF4: Finalização (10%)</s>
 
 Tanto os TPs quando o projeto final serão entregues via Moodle. O envio será o envio de um link para o seu repositório no GitHub. As instruções exatas estarão detalhadas nos roteiros de cada projeto.
