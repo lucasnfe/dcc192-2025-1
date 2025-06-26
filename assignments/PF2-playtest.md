@@ -19,7 +19,9 @@ Simular uma etapa real de *playtesting*, para que os alunos compreendam sua impo
 
 ## Instruções
 
-Seu jogo deve estar em um repositório no GitHub com todos os membros do grupo adicionados como colaboradores. Na raiz desse repositório, crie um arquivo `README.md` com as seguintes seções:
+O código do jogo estar em um repositório no GitHub com todos os membros do grupo adicionados como colaboradores. Nessa etapa 
+
+Na raiz desse repositório, crie um arquivo `README.md` com as seguintes seções:
 
 1. **Screenshots**  
    Capturas de tela mostrando diferentes momentos do jogo.
