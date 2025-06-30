@@ -50,4 +50,4 @@ Na raiz desse repositório, crie um arquivo `README.md` com as seguintes seçõe
 
 Crie uma nova [*release* no seu projeto do GitHub](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository), para que essa versão de playtest seja salva e facilmente acessível durante o restante do desenvolvimento.
 
-Envie o link do seu repositório em formato PDF na tarefa `PF2: Playtest` do Moodle. **Apenas um membro do grupo deve fazer a submissão.**
+Envie o link do seu repositório na tarefa `PF2: Playtest` do Moodle. **Apenas um membro do grupo deve fazer a submissão.**
