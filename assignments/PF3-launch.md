@@ -7,7 +7,7 @@ nav_exclude: true
 
 # PF3: Lançamento
 
-#### Entrega: 06/07 às 23:59h
+#### Entrega: 07/07 às 10:00h
 
 ## Introdução
 
